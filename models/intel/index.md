@@ -8,6 +8,9 @@ The models can be downloaded via Model Downloader
 (`<OPENVINO_INSTALL_DIR>/deployment_tools/open_model_zoo/tools/downloader`).
 They can also be downloaded manually from [01.org](https://download.01.org/opencv).
 
+> **TIP**: You can download and profile Intel pre-trained models in the web-based 
+> graphical environment of the [OpenVINO™ Deep Learning Workbench](@ref openvino_docs_get_started_get_started_dl_workbench).
+
 ## Object Detection Models
 
 Several detection models can be used to detect a set of the most popular
